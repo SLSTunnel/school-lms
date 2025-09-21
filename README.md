@@ -423,6 +423,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Your Name - ceo@miolong.com
 
-Project Link: [https://github.com/yourusername/school-lms](https://github.com/yourusername/school-lms)
+Project Link: [https://github.com/SLSTunnel/school-lms](https://github.com/yourusername/school-lms)
